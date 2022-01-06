@@ -1,10 +1,10 @@
-### Hi there, I'm Thibaut - aka [montest][website] 👋
+## Hi there, I'm Thibaut - aka [montest][website] 👋
 
 You can learn more on me and my previous research on my [Website][website]
 
-## I'm a Machine Learning Data Scientist at Talkwalker!!
+### I'm a Machine Learning Data Scientist at Talkwalker and work on NLP related projects!!
 
-### Connect with me:
+#### Connect with me:
 
 [<img align="left" alt="montest.github.io" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="Thibaut Montes | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
