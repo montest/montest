@@ -44,9 +44,10 @@ You can learn more on me and my previous research on my [Website][website]
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
-➡️ [more blog posts...][website]
+➡️ [more blog posts...][blog_posts]
 
 </details>
 
 [website]: https://montest.github.io
+[blog_posts]: https://montest.github.io/year-archive/
 [linkedin]: https://www.linkedin.com/in/thibaut-montes-ph-d-194a77a9
