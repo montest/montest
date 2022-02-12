@@ -41,8 +41,7 @@ You can learn more on me and my previous research on my [Website][website]
 
 ### 📕 Latest Blog Posts
 
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+- [Stochastic Numerical Methods for Optimal Voronoï Quantization](https://montest.github.io/2022/02/13/StochasticMethodsForOptimQuantif/)
 
 ➡️ [more blog posts...][blog_posts]
 
