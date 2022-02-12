@@ -14,4 +14,4 @@ jobs:
       - uses: montest/blog-post-workflow@master
         with:
           max_post_count: "5"
-          feed_list: "www.montest.github.io/feed.xml"
+          feed_list: "montest.github.io/feed.xml"
