@@ -41,9 +41,9 @@ You can learn more on me and my previous research on my [Website][website]
 
 ### 📕 Latest Blog Posts
 
+- [Optimal Quantization with PyTorch - Part 1: Implementation of Stochastic Lloyd Method](https://montest.github.io/2023/03/16/StochasticMethodsForOptimQuantifWithPyTorchPart1/)
 - [Deterministic Numerical Methods for Optimal Voronoï Quantization: The one-dimensional case](https://montest.github.io/2022/06/21/DeterministicdMethodsForOptimQuantifUnivariates/)
 - [Stochastic Numerical Methods for Optimal Voronoï Quantization](https://montest.github.io/2022/02/13/StochasticMethodsForOptimQuantif/)
-
 ➡️ [more blog posts...][blog_posts]
 
 </details>
