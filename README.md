@@ -4,7 +4,7 @@
 
 You can learn more on me and my previous research on my [Website][website]
 
-### I'm a Senior Machine Learning Researcher at Talkwalker and work on NLP related projects!!
+### I'm a Quantitative Researcher and Developer at ADIA and work on NLP related projects!!
 
 #### Connect with me:
 
